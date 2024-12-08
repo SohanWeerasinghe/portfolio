@@ -156,7 +156,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/hkbgjkbjkgkjdfhgkjdglkdgdhd.jpg") no-repeat center;
+    background: url("images/Backpoto.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -359,10 +359,10 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 70%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 60%;
 }
 /* teams section styling */
 .teams .title::after{
